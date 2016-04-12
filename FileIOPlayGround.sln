@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeekAndArchive", "SeekAndArchive\SeekAndArchive.csproj", "{F9B35837-9D84-4C8A-AB70-BA89BDF324B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsolatedStorageDemo", "IsolatedStorageDemo\IsolatedStorageDemo.csproj", "{9C19D2E1-767C-48FD-BAC3-81A18D8917A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F9B35837-9D84-4C8A-AB70-BA89BDF324B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9B35837-9D84-4C8A-AB70-BA89BDF324B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9B35837-9D84-4C8A-AB70-BA89BDF324B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C19D2E1-767C-48FD-BAC3-81A18D8917A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C19D2E1-767C-48FD-BAC3-81A18D8917A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C19D2E1-767C-48FD-BAC3-81A18D8917A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C19D2E1-767C-48FD-BAC3-81A18D8917A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
